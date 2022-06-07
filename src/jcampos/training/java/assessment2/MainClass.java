@@ -1,4 +1,4 @@
-package jcampos.training.java;
+package jcampos.training.java.assessment2;
 
 import java.util.Arrays;
 import java.util.List;

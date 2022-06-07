@@ -1,4 +1,4 @@
-package jcampos.training.java;
+package jcampos.training.java.assessment3;
 
 public class Employee {
 
